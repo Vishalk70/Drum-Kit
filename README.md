@@ -1,2 +1,2 @@
 # Drum-Kit
-create Drum-kit using HTML5, CSS and Javascript.
+I've created Drum-kit using HTML5, CSS and Javascript.
